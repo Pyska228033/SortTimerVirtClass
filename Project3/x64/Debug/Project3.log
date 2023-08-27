@@ -1,0 +1,16 @@
+﻿  DynamicArray.cpp
+  Nudl.cpp
+  List.cpp
+  Sequence.cpp
+  LinkedListSequence.cpp
+  ArraySequence.cpp
+  main.cpp
+C:\Users\Пользователь\source\repos\Project3\Project3\universal.h(30,23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Пользователь\source\repos\Project3\Project3\main.cpp(13,20): message : выполняется компиляция ссылки на экземпляр шаблон функции "void universal<int>(void)"
+C:\Users\Пользователь\source\repos\Project3\Project3\universal.h(45,32): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  doarr.cpp
+  dolist.cpp
+  sort.cpp
+  universal.cpp
+  Создание кода...
+  Project3.vcxproj -> C:\Users\Пользователь\source\repos\Project3\x64\Debug\Project3.exe

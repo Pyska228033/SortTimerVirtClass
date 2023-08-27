@@ -1,0 +1,15 @@
+﻿  DynamicArray.cpp
+  Nudl.cpp
+  List.cpp
+  Sequence.cpp
+  LinkedListSequence.cpp
+  ArraySequence.cpp
+  main.cpp
+C:\Users\Пользователь\source\repos\Project3\Project3\main.cpp(23,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  doarr.cpp
+  dolist.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 191 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Project3.vcxproj -> C:\Users\Пользователь\source\repos\Project3\x64\Release\Project3.exe

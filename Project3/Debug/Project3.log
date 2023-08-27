@@ -1,0 +1,12 @@
+﻿  DynamicArray.cpp
+  Nudl.cpp
+  List.cpp
+  Sequence.cpp
+  LinkedListSequence.cpp
+  ArraySequence.cpp
+  main.cpp
+C:\Users\Пользователь\source\repos\Project3\Project3\main.cpp(23,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  doarr.cpp
+  dolist.cpp
+  Создание кода...
+  Project3.vcxproj -> C:\Users\Пользователь\source\repos\Project3\Debug\Project3.exe
